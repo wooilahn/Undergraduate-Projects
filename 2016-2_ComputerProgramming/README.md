@@ -12,5 +12,3 @@
     <br>
 **4. Assignment_4**  
     (4-1) C program to multiply two matrices and print the output matrix.
-  
-    <br>
