@@ -12,5 +12,5 @@
   
 * **Homework 3**  
     * Program to perform tree traversal with Generic and Collection in JAVA  
-    * Pre-order, In-order, Post-order traversal of binary tree
+    * Pre-order, In-order, Post-order traversal of binary tree is implemented
     
