@@ -15,6 +15,6 @@
 * **Assignment 3(implemented imperfectly)**
     * Implementing Malloc, Realloc, Free function
     * There are three algorithms for searching the list of free blocks for a specific amount of memory.  
-      * First fit: Begins at the start of primary memory and allocates memory from the first hole it encounters large enough to satisfy the request.
+      * First fit: Begins at the start of memory and allocates memory from the first hole large enough to satisfy the request.
       * Best fit: The allocator places a process in the smallest block of unallocated memory in which it will fit.
       * Worst fit: The memory manager places a process in the largest block of unallocated memory available.
