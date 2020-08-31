@@ -1,4 +1,4 @@
-2018 Fall System Programming
+System Programming (2018 Fall)
 =============  
 * **Homework**
     * first
