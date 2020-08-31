@@ -1,1 +1,7 @@
-2018-2 System Programming
+2018 Fall System Programming
+=============  
+* **Homework**
+    * first
+  
+* **Team Project (Smart Bedroom)**  
+    * first
