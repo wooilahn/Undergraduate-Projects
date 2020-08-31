@@ -1,4 +1,4 @@
-2017-2 Operating System
+2017 Fall Operating System
 =============  
 * **Assignment 0**
     * Parsing commands(utils.c)
