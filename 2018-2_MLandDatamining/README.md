@@ -1,4 +1,4 @@
-2018 Fall Machine-Learning and Data-Mining
+Machine-Learning and Data-Mining (2018 Fall)
 =============  
 * **Homework 1**
     * first
