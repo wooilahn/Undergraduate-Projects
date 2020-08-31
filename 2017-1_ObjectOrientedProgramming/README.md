@@ -1,4 +1,4 @@
-2017 Spring Object-Oriented Programming
+Object-Oriented Programming (2017 Spring)
 =============  
 * **Homework 1**
     * Library Management Program in JAVA.  
