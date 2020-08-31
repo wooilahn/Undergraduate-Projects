@@ -1,4 +1,4 @@
-2016 Fall Computer Programming
+Computer Programming (2016 Fall)
 =============  
 **1. Assignment_1**  
     (1-1) C program to get the two numbers from the user, and add operation is performed.  
