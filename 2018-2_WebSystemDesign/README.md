@@ -1,4 +1,4 @@
-2018 Fall Web System Design
+Web System Design (2018 Fall)
 =============  
 * **Lab Session**
     * Lab2
