@@ -1,0 +1,42 @@
+#div1{
+    border: 2px solid darkgray;
+    width: 35cm;
+    height: 20cm;
+    text-align: center;
+    font-family: Sans-Serif;
+}
+
+form {
+    margin: 15px 0 0 0;
+    color: cornflowerblue;
+    size: 14px;
+}
+
+#lab2 {
+    font-size: 45px;
+}
+
+article {
+    font-size: 15px;
+    margin: 20px 0 30px 0;
+    padding: 0;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+table {
+    width: 35cm;
+    height: 7cm;
+    margin: 20px 0 20px 0;
+    text-align: center;
+    background-color: lightgray;
+}
+
+footer{
+    margin: 0 0 140px 0;
+}

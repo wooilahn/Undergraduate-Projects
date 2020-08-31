@@ -1,0 +1,22 @@
+#MNA, #DP, #WD, #GB {
+    background-color : white;
+    border-style:solid;
+}
+
+#PW2, #money {
+    font-size : 15px;
+}
+
+#main-menu-div {
+    display : none;
+}
+
+#balance-view {
+    margin-top : 20px;
+    font-size : 40px;
+    font-weight : bold;
+}
+
+#balance-value2{
+    color : crimson;
+}

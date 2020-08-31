@@ -1,0 +1,32 @@
+NAV {
+    margin-bottom : 12px;
+}
+
+#input {
+    width : 200px;
+}
+
+#AT {
+    background-color: #00C853;
+}
+
+#FL {
+    background-color: #FF8F00;
+}
+
+#CA {
+    background-color: #FF3D00;
+}
+
+.textClass {
+    margin-bottom: 10px;
+    width : 200px;
+}
+
+.imgClass {
+    margin-bottom: 10px;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
